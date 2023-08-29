@@ -56,7 +56,7 @@ Triggers are implemented to enforce business rules and maintain data integrity:
 
 ## Contributor
 
-- [Valerii Andriushchenko]
+- Valerii Andriushchenko
 
 Feel free to contribute to this project by submitting pull requests or reporting issues.
 
