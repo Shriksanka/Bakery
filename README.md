@@ -1,5 +1,7 @@
 # SQL Project: Restaurant Management System
 
+![Project Image](Diagram_encji.png)
+
 This SQL project involves the creation of a restaurant management system database using a series of SQL scripts. The project defines multiple tables to store information about customers, menus, products, ingredients, employees, orders, owners, and more. It simulates a basic database for managing a restaurant's operations, including handling orders, inventory, and personnel information.
 
 ## Table of Contents
